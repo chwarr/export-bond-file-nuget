@@ -1,0 +1,23 @@
+# Emacs
+*~
+\#*\#
+
+# Vim
+*.swp
+*.swo
+*.swm
+
+# VS
+.vs/
+.vscode/
+
+# Build and test artifacts
+bin/
+obj/
+TestResults/
+tools/
+Debug/
+Release/
+
+# MSBuild binary log
+msbuild.binlog

@@ -1,0 +1,6 @@
+namespace Foo;
+
+struct SomeBase
+{
+    0: string str_value;
+}

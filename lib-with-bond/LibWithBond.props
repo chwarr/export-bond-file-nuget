@@ -1,0 +1,5 @@
+<Project>
+  <ItemGroup>
+    <BondImportDirectory Include="$(MSBuildThisFileDirectory)bond" />
+  </ItemGroup>
+</Project>

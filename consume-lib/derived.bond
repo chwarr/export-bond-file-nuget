@@ -1,0 +1,8 @@
+import "base.bond"
+
+namespace Foo;
+
+struct SomeDerived : SomeBase
+{
+    0: int32 int_value;
+}
